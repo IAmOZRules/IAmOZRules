@@ -21,7 +21,7 @@ I am an Shreyaans Nahata. Avid Reader 📚, Watcher 📺, Gamer 🕹, Python �
 ## Other Stuff I Use 🧐
  <img src= "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /> <img src= "https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /> <img src= "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
-## Things I'm learning 👨‍🎓
+## What I'm Currently Learning 👨‍🎓
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 
 
@@ -30,5 +30,5 @@ I am an Shreyaans Nahata. Avid Reader 📚, Watcher 📺, Gamer 🕹, Python �
 - 💬 Ask me about Anime, TV shows and Movies!
 - ⚡ Fun fact: I like doing nothing at times 💤
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IAmOZRules&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-![Nox's github stats](https://github-readme-stats.vercel.app/api?username=IAmOZRules&show_icons=true&hide_border=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IAmOZRules&theme=nightowl&fire=DD2727)](https://git.io/streak-stats)
+![Nox's github stats](https://github-readme-stats.vercel.app/api?username=IAmOZRules&show_icons=true&hide_border=false&theme=nightowl)
