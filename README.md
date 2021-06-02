@@ -2,17 +2,17 @@
   Hi there 👋 I'm Shreyaans Nahata 👨‍💻
 </h1>
 
-<p align="center">
- <b>I like making things that interest me 🧠</b>
-</p>
+<h3 align="center">
+ I like making things that interest me 🧠
+</h3>
 
 
 <p align='center'>
- <a href="https://github.com/IAmOZRules"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/iamozrules/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://www.kaggle.com/shreyaansnahata"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+ <a href="https://github.com/IAmOZRules"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/iamozrules/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+ <a href="https://www.kaggle.com/shreyaansnahata"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:iamozrules@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</p><br>
 
 
 <p align='center'>
@@ -27,7 +27,7 @@
  </p><br>
 
 <p align='center'>
-🔭 I’m currently working on <b>slang - My Own Programming Language</b> 🤓!<br>
+🔭 I’m currently working on <b>  slang - My Own Programming Language</b> 🤓!<br>
 👯 I’m looking to collaborate on <b>Python and Front-End projects!</b><br>
 💬 Ask me about <b>Anime, TV shows and Movies!</b><br>
 ⚡ Fun fact: <b>I like doing nothing at times 💤</b><br>
@@ -36,7 +36,7 @@
 <h3 align="center"> Work in Progress... 👨‍🎓 </h3>
 
 <p align='center'>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Haskell" src="https://img.shields.io/badge/Haskell-000000?style=for-the-badge&logo=Haskell&logoColor=white"/> <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 </p>
 
 <h3 align="center"> I am currently into Machine Learning 🤖 </h3>
