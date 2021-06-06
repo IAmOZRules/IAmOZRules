@@ -6,7 +6,6 @@
  I like making things that interest me 🧠
 </h3>
 
-
 <p align='center'>
  <a href="https://github.com/IAmOZRules"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/iamozrules/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
@@ -54,6 +53,9 @@
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src= "https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
 </p><br></br>
 
+<div align="center">
+	<p><a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Readme Quotes" width="530"></a></p>
+</div>
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/IAmOZRules/IAmOZRules"></a> hipsters and nerds have visited this!
