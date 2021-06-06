@@ -57,6 +57,10 @@
 	<p><a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Readme Quotes" width="530"></a></p>
 </div>
 
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/IAmOZRules/IAmOZRules"></a> hipsters and nerds have visited this!
 </p>
