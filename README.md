@@ -15,8 +15,9 @@
 
 
 <p align='center'>
-  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=IAmOZRules&theme=nightowl&fire=DD2727" width="350"></a>
- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IAmOZRules&show_icons=true&hide_border=false&theme=nightowl" width="350"></a>
+	<a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=IAmOZRules&show_icons=true&hide_border=false&theme=nightowl&fire=DD2727" width="350"></a>
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IAmOZRules&show_icons=true&hide_border=false&theme=nightowl" width="350"></a>
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmOZRules&layout=compact&show_icons=true&hide_border=false&theme=nightowl" width="350"></a>
 </p>
 
 <h2 align="center"> My Tech Stack 🔭 </h2>
